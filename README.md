@@ -1,3 +1,3 @@
 # seifenhalter
 
-3D model for soap
+3D model for soap tray
